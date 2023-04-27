@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <H2> Hi, I`m Adilson Tavares 💻<H2>
-![Adilson Tavares GitHub stats] (https://github-readme-stats.vercel.app/api?usernames=adilson-tavares&show_icons=true&theme=dark)
+![Adilson Tavares GitHub stats] (https://github-readme-stats.vercel.app/api?username=adilson-tavares&show_icons=true&theme=dark)
