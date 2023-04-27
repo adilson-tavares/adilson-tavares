@@ -24,10 +24,17 @@ Here are some ideas to get you started:
  </div>
   
  
-## Tecnologias utilizadas no dia-a-dia
-  
+## Technologies used in everyday life
+<div style="display: inline_block"><br/>
+    <img align="center" alt="ansible" src="https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=whit"/>
+    <img align="center" alt="terraform" src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=whit"/>
+    <img align="center" alt="kubernetes" src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=whit"/>
+    <img align="center" alt="docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
+    <img align="center" alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+    <img align="center" alt="helm" src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=Helm&labelColor=0F168"/>
+</div>  
 
-## Sistemas Operacionais
+## System operation 
   
 <div style="display: inline_block"><br/>
     <img align="center" alt="linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
@@ -49,7 +56,8 @@ Here are some ideas to get you started:
   <div style="display: inline_block"><br/>
     <img align="center" alt="jenkins" src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"/>
     <img align="center" alt="jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/>
-    <img align="center" alt="airflow" src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white"/>    
+    <img align="center" alt="airflow" src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white"/>   
+    <img align="center" alt="argo_cd" src="https://img.shields.io/badge/Argo%20CD-1e0b3e?style=for-the-badge&logo=argo&logoColor=#d16044"/>
 </div>
   
  
