@@ -18,9 +18,19 @@ Here are some ideas to get you started:
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adilson-tavares&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+## Social Media
+ <div style="display: inline_block"><br/>
+  <img align="center" alt="linux" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+ </div>
+  
+ 
 ## Tecnologias utilizadas no dia-a-dia
   
-  <div style="display: inline_block"><br/>
+
+## Sistemas Operacionais
+  
+<div style="display: inline_block"><br/>
     <img align="center" alt="linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
     <img align="center" alt="ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
-  </div>
+    <img align="center" alt="cent_os" src="https://img.shields.io/badge/Cent%20OS-262577?style=for-the-badge&logo=CentOS&logoColor=white"/>
+</div>
