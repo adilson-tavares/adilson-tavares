@@ -18,3 +18,8 @@ Here are some ideas to get you started:
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adilson-tavares&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+## Tecnologias utilizadas no dia-a-dia
+  
+  <div>
+    <img align="center" alt="linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"
+  </div>
