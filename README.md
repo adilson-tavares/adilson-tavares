@@ -15,6 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <H2> Hi, I`m Adilson Tavares 💻<H2>
+<p> 
+🎓 I´m a Software Engineer and I love being a developer; <br/>
+🌱 I´m focused on learning and applying Infrastructure as Code (IaC) and cloud computing;<br/>
+🌱 Build infrastructure with Terraform, Ansible, Kubernetes and Docker; <br/>
+🌱 I believe these technologies can facilitate daily operations. <br/>
+ </p>
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adilson-tavares&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
