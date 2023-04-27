@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adilson-tavares&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Social Media
- <div style="display: inline_block"><br/>
+ <div style="display: inline_block">
   <img align="center" alt="linux" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
  </div>
   
